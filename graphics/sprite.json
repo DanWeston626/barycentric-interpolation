@@ -1,0 +1,170 @@
+{"frames": {
+
+"adventurer-attack1-00.png":
+{
+	"frame": {"x":0,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack1-01.png":
+{
+	"frame": {"x":50,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack1-02.png":
+{
+	"frame": {"x":100,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack1-03.png":
+{
+	"frame": {"x":150,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack1-04.png":
+{
+	"frame": {"x":200,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-00.png":
+{
+	"frame": {"x":250,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-01.png":
+{
+	"frame": {"x":300,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-02.png":
+{
+	"frame": {"x":350,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-03.png":
+{
+	"frame": {"x":400,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-04.png":
+{
+	"frame": {"x":450,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack2-05.png":
+{
+	"frame": {"x":500,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-00.png":
+{
+	"frame": {"x":550,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-01.png":
+{
+	"frame": {"x":600,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-02.png":
+{
+	"frame": {"x":650,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-03.png":
+{
+	"frame": {"x":700,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-04.png":
+{
+	"frame": {"x":750,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"adventurer-attack3-05.png":
+{
+	"frame": {"x":800,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"adventurer-attack1": ["adventurer-attack1-00.png","adventurer-attack1-01.png","adventurer-attack1-02.png","adventurer-attack1-03.png","adventurer-attack1-04.png"],
+	"adventurer-attack2": ["adventurer-attack2-00.png","adventurer-attack2-01.png","adventurer-attack2-02.png","adventurer-attack2-03.png","adventurer-attack2-04.png","adventurer-attack2-05.png"],
+	"adventurer-attack3": ["adventurer-attack3-00.png","adventurer-attack3-01.png","adventurer-attack3-02.png","adventurer-attack3-03.png","adventurer-attack3-04.png","adventurer-attack3-05.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":850,"h":37},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:797da0139c2185bf3a0be839bca23f30:d53e22b239b4db5d59848b645dd60aa7:68d88b3cf7eafc9b5accfffdfb2fda91$"
+}
+}
